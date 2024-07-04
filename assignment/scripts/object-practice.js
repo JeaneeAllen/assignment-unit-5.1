@@ -55,5 +55,5 @@ console.log('Updated shoe count:', me.shoeCount);
   - Console.log your object
 */
 
-me.favoriteColor = 'Blue'; 
+me.favoriteColor = 'Purple'; 
 console.log(me);
